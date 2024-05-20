@@ -1,0 +1,26 @@
+
+
+.main-container{
+    width: 500px;
+    text-align: center;
+   /* background-color: antiquewhite;  */
+   box-shadow: 0px 0px 4px 0px white;
+   margin: 0 auto;
+   border: 2px solid;
+   padding-bottom: 20px;
+}
+
+.todo-item{
+    padding: 20px;
+    box-shadow: 0px 0px 4px 0px white;
+    border-radius: 3px;
+}
+.btn{
+    margin: 10px;
+}
+.hide{
+    display: none;
+}
+/* .show{
+    display: block;
+} */
